@@ -1,0 +1,8 @@
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\bin\Debug\patika-if-elseif-tenary-if-odev.exe.config
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\bin\Debug\patika-if-elseif-tenary-if-odev.exe
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\bin\Debug\patika-if-elseif-tenary-if-odev.pdb
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\obj\Debug\patika-if-elseif-tenary-if-odev.csproj.AssemblyReference.cache
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\obj\Debug\patika-if-elseif-tenary-if-odev.csproj.SuggestedBindingRedirects.cache
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\obj\Debug\patika-if-elseif-tenary-if-odev.csproj.CoreCompileInputs.cache
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\obj\Debug\patika-if-elseif-tenary-if-odev.exe
+D:\Unity Proje\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\patika-if-elseif-tenary-if-odev\obj\Debug\patika-if-elseif-tenary-if-odev.pdb
